@@ -1,5 +1,5 @@
 📊 Mmk Veresiye Takip Programı
-Mmk Veresiye Takip Programı, küçük ve orta ölçekli işletmelerin Müşteri Veresiye (Borç/Alacak) hesaplarını, işlem geçmişlerini ve veri güvenliklerini pratik bir şekilde yönetebilmeleri için C# WinForms ile geliştirilmiş masaüstü uygulamasıdır.
+Küçük ve orta ölçekli işletmelerin Müşteri Veresiye (Borç/Alacak) hesaplarını, işlem geçmişlerini ve veri güvenliklerini pratik bir şekilde yönetebilmeleri için C# WinForms ile geliştirilmiş masaüstü uygulamasıdır.
 
 Tüm verileriniz doğrudan kendi bilgisayarınızda saklanır ve harici bir bulut servisine ihtiyaç duymadan güvenli bir şekilde yerel yedekleme imkanı sunar.
 
