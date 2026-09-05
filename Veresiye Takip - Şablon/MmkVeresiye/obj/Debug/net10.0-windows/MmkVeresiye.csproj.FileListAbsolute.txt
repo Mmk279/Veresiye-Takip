@@ -1,0 +1,69 @@
+D:\Veresiye Takip\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.exe
+D:\Veresiye Takip\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.deps.json
+D:\Veresiye Takip\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.runtimeconfig.json
+D:\Veresiye Takip\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.dll
+D:\Veresiye Takip\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.pdb
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.AnaForm.resources
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.csproj.GenerateResource.cache
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.GeneratedMSBuildEditorConfig.editorconfig
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.AssemblyInfoInputs.cache
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.AssemblyInfo.cs
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.csproj.CoreCompileInputs.cache
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.dll
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\refint\MmkVeresiye.dll
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.pdb
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.genruntimeconfig.cache
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\ref\MmkVeresiye.dll
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.CariDetayForm.resources
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.LoginForm.resources
+D:\Veresiye Takip\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.Properties.Resources.resources
+D:\Veresiye Takip Şablon\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.exe
+D:\Veresiye Takip Şablon\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.deps.json
+D:\Veresiye Takip Şablon\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.runtimeconfig.json
+D:\Veresiye Takip Şablon\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.dll
+D:\Veresiye Takip Şablon\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.pdb
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.AnaForm.resources
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.CariDetayForm.resources
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.LoginForm.resources
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.Properties.Resources.resources
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.csproj.GenerateResource.cache
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.GeneratedMSBuildEditorConfig.editorconfig
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.AssemblyInfoInputs.cache
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.AssemblyInfo.cs
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.csproj.CoreCompileInputs.cache
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.dll
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\refint\MmkVeresiye.dll
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.pdb
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.genruntimeconfig.cache
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\ref\MmkVeresiye.dll
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.csproj.AssemblyReference.cache
+D:\Veresiye Takip Şablon\MmkVeresiye\bin\Debug\net10.0-windows\System.Management.dll
+D:\Veresiye Takip Şablon\MmkVeresiye\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Management.dll
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeres.4C1246D3.Up2Date
+D:\Veresiye Takip Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.LisansForm.resources
+D:\Veresiye Takip - Şablon\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.exe
+D:\Veresiye Takip - Şablon\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.deps.json
+D:\Veresiye Takip - Şablon\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.runtimeconfig.json
+D:\Veresiye Takip - Şablon\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.dll
+D:\Veresiye Takip - Şablon\MmkVeresiye\bin\Debug\net10.0-windows\MmkVeresiye.pdb
+D:\Veresiye Takip - Şablon\MmkVeresiye\bin\Debug\net10.0-windows\System.Management.dll
+D:\Veresiye Takip - Şablon\MmkVeresiye\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Management.dll
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.csproj.AssemblyReference.cache
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.AnaForm.resources
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.CariDetayForm.resources
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.LisansForm.resources
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.LoginForm.resources
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.Properties.Resources.resources
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.csproj.GenerateResource.cache
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.GeneratedMSBuildEditorConfig.editorconfig
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.AssemblyInfoInputs.cache
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.AssemblyInfo.cs
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.csproj.CoreCompileInputs.cache
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeres.4C1246D3.Up2Date
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.dll
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\refint\MmkVeresiye.dll
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.pdb
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\MmkVeresiye.genruntimeconfig.cache
+D:\Veresiye Takip - Şablon\MmkVeresiye\obj\Debug\net10.0-windows\ref\MmkVeresiye.dll
+D:\Veresiye Takip - Şablon\MmkVeresiye\bin\Debug\net10.0-windows\ExcelDataReader.dll
+D:\Veresiye Takip - Şablon\MmkVeresiye\bin\Debug\net10.0-windows\ExcelDataReader.DataSet.dll

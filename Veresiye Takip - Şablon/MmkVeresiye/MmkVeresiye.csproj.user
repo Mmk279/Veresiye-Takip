@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Veresiye Takip\MmkVeresiye\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CariDetayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FirmaBilgisiDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KullaniciYonetimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LisansForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
